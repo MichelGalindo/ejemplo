@@ -1,2 +1,3 @@
 1.iniciar la clase de devops con pase de lista
 2.crear un repo en github
+3. Modificacion completa

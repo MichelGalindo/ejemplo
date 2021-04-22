@@ -1,3 +1,4 @@
 1.inicializar repo local
 2.agregar archivo al repo local
 3.hacer documentacion
+4. Realizar Clonacion
